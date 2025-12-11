@@ -39,7 +39,7 @@ This analysis performs:
 
 ---
 
-## � Repository Structure
+##  Repository Structure
 
 spark-gcp-citibike-analysis/
 │
@@ -123,5 +123,5 @@ Reusing hash partition: fastest
 
 ---
 
-## 📜 License
+##  License
 This project is for educational and portfolio purposes.
